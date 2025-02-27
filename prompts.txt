@@ -1,0 +1,6 @@
+1.
+I want to make a car game. First i need Python code that can visually show a threelane where a car
+is driving on. It should be possible to control the with arrow keys and wasd. inside th code there
+should be easy access to parameters that indicate where the car currently is on the road, as well
+as a parameter that tell where the sides of the road is. So that the driver can get indication if
+he is no longer on the road.
